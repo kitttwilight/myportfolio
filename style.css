@@ -1,0 +1,38 @@
+.button {
+    background-color: #25a3af;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .buttons {
+    padding: 20px;
+    text-align: center;
+  }
+  body {
+    background-color: rgb(17, 23, 23);
+  }
+  h1 {
+    color: rgb(31, 188, 209);
+    padding: 10px;
+    text-align: center;
+    top:50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  p {
+    color: rgb(47, 218, 224);
+    padding: 10px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  img {
+    float:left; 
+    position:fixed;
+    top:140px;
+    padding:50px;  
+  }
